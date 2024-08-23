@@ -32,6 +32,7 @@ Capstone Project - Summer 2024 - Oregon State University
 
 ## Implementation Details
 - [Figma](https://www.figma.com/proto/EccuouzOB2mMfGrjTj08SP/Smart-Grocery-Housekeeping?node-id=0-1&t=nbDnhliuOygyemjY-1) - initial UI design
+- [Unsplash](https://unsplash.com/) - stock photography
 - [React](https://react.dev/) - UI
 - [react-multi-carousel](https://www.npmjs.com/package/react-multi-carousel) - item and recipe carousels
 - [Google Cloud Vision](https://cloud.google.com/vision?hl=en) - fruit and produce recognition
